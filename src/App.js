@@ -5,7 +5,7 @@ import './App.css';
 function App(){
     return(
         <>
-            <Welcome name="Jean"/>
+            <Welcome name="melissa"/>
         </>
     );
 }
