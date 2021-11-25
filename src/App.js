@@ -1,12 +1,12 @@
 import React from 'react';
-import Welcome from './componentes/Welcome';
+import HeaderResponsive from './componentes/HeaderResponsive';
 import './App.css';
 
 function App(){
     return(
-        <>
-            <Welcome name="melissa"/>
-        </>
+        <div className="App">
+            <HeaderResponsive/>
+        </div>
     );
 }
 
